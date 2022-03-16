@@ -1,4 +1,4 @@
-# ArchNemo ISO generator
+# ArchNemo Live ISO
 
-This is a custom arch ISO generator to build my own setup and configure it as much as possible to meet my needs!
+This is a live iso to test the archNemo profile.
 
